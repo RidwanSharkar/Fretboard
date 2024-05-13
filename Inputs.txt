@@ -1,0 +1,16 @@
+./Fretboard Am i7 ii7 iii7 iv7 v7 vi7 vii7
+
+./Fretboard Em7
+
+./Fretboard CM I7 VII7 III9 V7 VI9 i9 VII7 III7
+
+./Fretboard CM I7 VII7 iiia9
+
+./Fretboard A i iv iii v
+
+./Fretboard A i9 ii7 iii9 iv9 v7 vi7 vii9
+
+./Fretboard Am Dm CM EM
+
+./Fretboard Am7 Dm9 CM7 EM9
+
